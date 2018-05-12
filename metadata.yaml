@@ -1,0 +1,28 @@
+_repo: America-Volume-II--of-6-_41742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Joel
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '34171'
+    url: http://www.gutenberg.org/2009/agents/34171
+description: ''
+gutenberg_issued: '2012-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcc 'F1001'
+- !lcsh 'Canada -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+title: America, Volume 2 (of 6)
+url: http://www.gutenberg.org/ebooks/41742
